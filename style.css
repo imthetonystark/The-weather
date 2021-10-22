@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.vanta{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+.input{
+    margin-left: 42%;
+    margin-top: 15%;
+    border-radius: 15px;
+}
+.btn{
+    border-radius: 15px;
+}
+.user{
+    color: aliceblue;
+    margin-left: 42%;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
